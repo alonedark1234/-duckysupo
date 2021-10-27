@@ -1,1 +1,1 @@
-# -Gelişmiş Moderatiob
+# -Gelişmiş Moderation
