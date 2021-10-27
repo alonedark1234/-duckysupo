@@ -1,1 +1,1 @@
-# -duckysupo
+# -Gelişmiş Moderatiob
